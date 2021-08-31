@@ -16,7 +16,7 @@
         <a class="btn btn-danger" href="productos.php" role="button">Productos Y Servicios</a>
         <a class="btn btn-warning" href="tiendas.php" role="button">Tiendas</a>
         <a class="btn btn-dark" href="contactenos.php" role="button">Contactenos</a>
-        <a class="btn btn-info" href="contactenos.php" role="button">Ver mensajes</a>
+        <a class="btn btn-info" href="contraseña.php" role="button">Ver mensajes</a>
         
     </div>
     </div>
@@ -24,7 +24,7 @@
     <div class="container">
     <h1>Contáctenos</h1>
   </div>
-  <<div class="container">
+  <div class="container">
     <form action="conexion.php" method="POST">
         <div class="form-group">
             <label for="nombre">Nombres *</label>
