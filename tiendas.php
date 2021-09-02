@@ -13,7 +13,7 @@
     <br><br><br>
     <div class="container">
         <div class="btn-group w-100" role="group" aria-label="Basic exaple">
-        <a class="btn btn-danger" href="index.html" role="button">Productos Y Servicios</a>
+        <a class="btn btn-danger" href="productos.php" role="button">Productos Y Servicios</a>
         <a class="btn btn-warning" href="tiendas.php" role="button">Tiendas</a>
         <a class="btn btn-dark" href="contactenos.php" role="button">Contactenos</a>
     </div>
@@ -94,7 +94,7 @@
    <br><br>   <div class="container">
     <table border="1" width="100%" >
       <tr>
-        <td bgcolor="E276EA">
+        <td bgcolor="7FDFF9">
         PBX: 45782169 --- Dirrecion: 15 avenida D 11-50 zona 21 --- Carnet:2020-40120 --- Nombre: Jennifer Gabriela Rivas Soto
         </td>
       </tr>

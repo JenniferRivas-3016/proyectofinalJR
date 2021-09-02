@@ -31,7 +31,7 @@
                 <img src="imagenes/produc1.jfif " class="card-img-top" height="237">
                 <div class="card-body">
                   <h5 class="card-title">Taco pizza</h5>
-                  <p class="card-text"><b></b> | Q199.00 |</p>
+                  <p class="card-text"><b></b> | Q149.00 |</p>
                   <a  class="btn btn-info" href="info.php">Mas Informacion</a>
                   
                 </div>
@@ -180,7 +180,7 @@
    <br><br>   <div class="container">
     <table border="1" width="100%" >
       <tr>
-        <td bgcolor="E276EA">
+        <td bgcolor="7FDFF9">
         PBX: 45782169 --- Dirrecion: 15 avenida D 11-50 zona 21 --- Carnet:2020-40120 --- Nombre: Jennifer Gabriela Rivas Soto
         </td>
       </tr>
