@@ -26,7 +26,7 @@
     <div class="container">
     <br>
     <h5>No. Mensaje*</h5>
-    <input type="text" placeholder="Ingresa tu nombre completo" name="nomensaje" size="185">
+    <input type="text" placeholder="Ingresa número" name="nomensaje" size="185">
     <br><br>
     <h5>Nombres*</h5>
     <input type="text" placeholder="Ingresa tu nombre completo" name="nombre" size="185">
