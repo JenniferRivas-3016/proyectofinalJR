@@ -2,56 +2,66 @@
 <html lang="es">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-compatible" content="ie=edge">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-    <link rel="stylesheet" href="fondo1.css">
+    <link rel="stylesheet" href="fondo.css">
 
     <title>Inicio</title>
   </head>
   <body>
-    
+    <div class="container">
     <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="imagenes/logo.jpg" class="d-block w-100" height="300px">
+            <img src="imagenes/logo.jpg" class="d-block w-100" height="400px">
           </div>
         </div>
       </div>
+    </div>
     
-   
+      <div class="container">
       <div class="btn-group w-100" role="group" aria-label="Basic exaple">
         <a class="btn btn-danger" href="productos.php" role="button">Productos Y Servicios</a>
         <a class="btn btn-warning" href="tiendas.php" role="button">Tiendas</a>
         <a class="btn btn-dark" href="contactenos.php" role="button">Contactenos</a>
   </div>
+</div>
   
 <br><br>
-
+     
     <div class="container">
       <h2><b>Ofertas Del Mes</b></h2>
     </div>
 <br>
+
 <div class="container">
-  <div class="container">
-         <div class="row">
-           <img src="imagenes/ofer1.jfif"class="img thumnail" style="height: 515px; width: 515px;">
-           <img src="imagenes/ofer2.jfif"class="rounded float" style="height: 300px;width: 300px;">
-           <img src="imagenes/ofer3.jfif"class="rounded float" style="height: 300px;width: 300px;">
-           <img src="imagenes/ofer4.jpg"class="rounded float" style="height: 198px;width: 600px; margin-left: 515px; margin-top: -198px;">
-         </div>
-     </div>
- </div>
+  <table class="table table-borderless">
+      <tbody>
+        <tr>
+          <td rowspan="2"><img src="imagenes/ofer1.jfif" width="100%" height="550px"></td>
+          <td><img src="imagenes/ofer2.jfif" width="100%" height="300px"></td>
+          <td><img src="imagenes/ofer3.jfif" width="100%" height="300"></td>
+        </tr>
+        <tr>
+          <td colspan="2"><img src="imagenes/ofer4.jpg" width="100%" height="235px"></td>
+        </tr>
+      </tbody>
+    </table>
+</div>
+
     <br><br>
     
-    <table border="1" width="100%" >
-      <tr>
-        <td bgcolor="7FDFF9">
-        <center>PBX: 45782169 --- Dirrecion: 15 avenida D 11-50 zona 21 --- Carnet:2020-40120 --- Nombre: Jennifer Gabriela Rivas Soto</center>
-        </td>
-      </tr>
-  </div>
-  </table>
+    <div class="container">
+      <div class="container">
+          <table border="1" width="100%" >
+            <tr>
+              <td bgcolor="7FDFF9">
+              PBX: 45782169 --- Dirrecion: 15 avenida D 11-50 zona 21 --- Carnet:2020-40120 --- Nombre: Jennifer Gabriela Rivas Soto
+              </td>
+            </tr>
+        </div>
+        </table>
    <br>
    <br>
 
